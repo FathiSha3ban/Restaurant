@@ -1,0 +1,461 @@
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-family:Verdana,Tahoma, sans-serif;
+    padding: 10px;
+}
+
+.img1{
+    padding:50px;
+    height: 200px;
+}
+.text1{
+    position: absolute;
+    font-size: 20px;
+    top: 12.5%;
+    left: 5%;
+}
+.T1{
+    position: absolute;
+    font-size: 19px;
+    left:5%;
+}
+.img2{
+    padding:50px;
+    height: 200px;
+}
+.text2{
+    position: absolute;
+    top: 12.5%;
+    left: 30%;
+    font-size: 20px;
+}
+.T2{
+    position: absolute;
+    font-size: 19px;
+    left:30%;
+}
+.img3{
+    padding:50px;
+    height: 200px;
+}
+.text3{
+    position: absolute;
+    top: 12.5%;
+    left: 54%;
+    font-size: 20px;
+}
+.A{
+    position: absolute;
+    top: 14%;
+    left: 54%;
+    font-size: 20px; 
+}
+.T3{
+    position: absolute;
+    font-size: 19px;
+    left:54%;
+}
+.img4{
+    padding:50px;
+    height: 200px;
+}
+.text4{
+    position: absolute;
+    top: 12.5%;
+    left: 78%;
+    font-size: 20px;
+}
+.T4{
+    position: absolute;
+    font-size: 19px;
+    left:78%;
+}
+.img5{
+    padding:50px;
+    height: 200px;
+}
+.text5{
+    position: absolute;
+    font-size: 20px;
+    top: 29%;
+    left: 5%;
+}
+.B{
+    position: absolute;
+    font-size: 20px;
+    top: 30%;
+    left: 5%;
+}
+.T5{
+    position: absolute;
+    font-size: 19px;
+    left:5%;
+}
+.img6{
+    padding:50px;
+    height: 200px;
+}
+.text6{
+    position: absolute;
+    font-size: 20px;
+    top: 29%;
+    left: 29%;
+}
+.C{
+    position: absolute;
+    font-size: 20px;
+    top: 30%;
+    left: 29%;
+}
+.T6{
+    position: absolute;
+    font-size: 19px;
+    left:29%;
+}
+.img7{
+    padding:50px;
+    height: 200px;
+}
+.text7{
+    position: absolute;
+    top: 29%;
+    left: 52%;
+    font-size: 20px;
+}
+.T7{
+    position: absolute;
+    font-size: 19px;
+    left:52%;
+}
+.img8{
+    padding:50px;
+    height: 200px;
+}
+.text8{
+    position: absolute;
+    top: 29%;
+    left: 76%;
+    font-size: 20px;
+}
+.D{
+    position: absolute;
+    top: 30%;
+    left: 76%;
+    font-size: 20px;
+}
+.T8{
+    position: absolute;
+    font-size: 19px;
+    left:76%;
+}
+.img9{
+    padding:50px;
+    height: 200px;
+}
+.text9{
+    position: absolute;
+    font-size: 20px;
+    top: 45%;
+    left: 5%;
+}
+.E{
+    position: absolute;
+    font-size: 20px;
+    top: 46%;
+    left: 5%;
+}
+.T9{
+    position: absolute;
+    font-size: 19px;
+    left:5%;
+}
+.img10{
+    padding:50px;
+    height: 200px;
+}
+.text10{
+    position: absolute;
+    font-size: 20px;
+    top: 45%;
+    left: 28%;
+}
+.T10{
+    position: absolute;
+    font-size: 19px;
+    left:28%;
+}
+.img11{
+    padding:50px;
+    height: 200px;
+}
+.text11{
+    position: absolute;
+    top: 45%;
+    left: 51%;
+    font-size: 20px;
+}
+.F{
+    position: absolute;
+    top: 46%;
+    left: 51%;
+    font-size: 20px; 
+}
+.T11{
+    position: absolute;
+    font-size: 19px;
+    left:51%;
+}
+.img12{
+    padding:50px;
+    height: 200px;
+}
+.text12{
+    position: absolute;
+    top: 45%;
+    left: 75%;
+    font-size: 20px;
+}
+.T12{
+    position: absolute;
+    font-size: 19px;
+    left:75%;
+}
+.img13{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 0px;
+    padding-left: 50px ;
+    height: 200px;
+}
+.text13{
+    position: absolute;
+    font-size: 20px;
+    top: 61%;
+    left: 5%;
+}
+.T13{
+    position: absolute;
+    font-size: 19px;
+    left:5%;
+}
+.img14{
+    padding:50px;
+    height: 200px;
+    margin-left: 50px;
+}
+.text14{
+    position: absolute;
+    font-size: 20PX;
+    top:61%;
+    left:27%
+}
+.G{
+    position: absolute;
+    font-size: 20PX;
+    top:62%;
+    left:27%
+}
+.T14{
+    position: absolute;
+    font-size: 19px;
+    left:27%;
+}
+.img15{
+    padding:50px;
+    height: 200px;
+    
+}
+.text15{
+    position: absolute;
+    top: 61%;
+    left: 51%;
+    font-size: 20px;
+}
+.T15{
+    position: absolute;
+    font-size: 19px;
+    left:51%;
+}
+.img16{
+    padding:50px;
+    height: 200px;
+}
+.text16{
+    position: absolute;
+    top: 61%;
+    left: 75%;
+    font-size: 20px;
+}
+.T16{
+    position: absolute;
+    font-size: 19px;
+    left:75%;
+}
+.H{
+    position: absolute;
+    font-size: 20PX;
+    top:62%;
+    left:75%
+}
+.img17{
+    padding:50px;
+    height: 200px;
+}
+.text17{
+    position: absolute;
+    font-size: 20px;
+    top: 77%;
+    left: 5%;
+}
+.K{
+    position: absolute;
+    font-size: 20px;
+    top: 78%;
+    left: 5%;
+}
+.T17{
+    position: absolute;
+    font-size: 19px;
+    left:5%;
+}
+.img18{
+    padding:50px;
+    height: 200px;
+}
+.text18{
+    position: absolute;
+    font-size: 20PX;
+    top:77%;
+    left:29%
+}
+.T18{
+    position: absolute;
+    font-size: 19px;
+    left:29%;
+}
+.img19{
+    padding:50px;
+    height: 200px;
+}
+.text19{
+    position: absolute;
+    top: 77%;
+    left: 53%;
+    font-size: 20px;
+}
+.T19{
+    position: absolute;
+    font-size: 19px;
+    left:53%;
+}
+.I{
+    position: absolute;
+    top: 78%;
+    left: 53%;
+    font-size: 20px;
+}
+.img20{
+    padding:50px;
+    height: 200px;
+}
+.text20{
+    position: absolute;
+    top: 77%;
+    left: 77%;
+    font-size: 20px;
+}
+.T20{
+    position: absolute;
+    font-size: 19px;
+    left:77%;
+}
+.J{
+    position: absolute;
+    top: 78%;
+    left: 77%;
+    font-size: 20px;
+}
+.img21{
+    padding:50px;
+    height: 200px;
+}
+.text21{
+    position: absolute;
+    font-size: 20px;
+    top: 93%;
+    left: 5%;
+}
+.T21{
+    position: absolute;
+    font-size: 19px;
+    left:5%;
+}
+.img22{
+    padding:50px;
+    height: 200px;
+}
+.text22{
+    position: absolute;
+    font-size: 20PX;
+    top:93%;
+    left:29%
+}
+.T22{
+    position: absolute;
+    font-size: 19px;
+    left:29%;
+}
+.L{
+    position: absolute;
+    font-size: 20PX;
+    top:94%;
+    left:29%
+}
+.img23{
+    padding:50px;
+    height: 200px;
+}
+.text23{
+    position: absolute;
+    top: 93%;
+    left: 53%;
+    font-size: 20px;
+}
+.T23{
+    position: absolute;
+    font-size: 19px;
+    left:53%;
+}
+.M{
+    position: absolute;
+    top: 94%;
+    left: 53%;
+    font-size: 20px;
+}
+.img24{
+    padding:50px;
+    height: 200px;
+}
+.text24{
+    position: absolute;
+    top: 93%;
+    left: 77%;
+    font-size: 20px;
+}
+.T24{
+    position: absolute;
+    font-size: 19px;
+    left:77%;
+}
+.image{
+    position: relative;
+    margin: auto;
+    width: 1000px;
+    height: 2000px;
+    background-color:snow;
+}
+body{
+    background-color: linen;
+}

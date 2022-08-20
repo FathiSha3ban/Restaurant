@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Pushster', cursive;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+form{
+    text-align: center;
+    padding: 10px;
+  
+    }
+body{
+	background-image:url(background.png);
+	background-size: 250px;
+	background-position: center;
+	
+}
